@@ -63,7 +63,6 @@ Testei e comparei três modelos principais:
 - A importância de iterar com modelos simples antes de partir para modelos complexos.
 - O impacto real da engenharia de features bem pensada.
 - A eficiência de pipelines completas para garantir reprodutibilidade e clareza no código.
-- Como documentar um projeto técnico de forma legível para recrutadores e colegas de área.
 
 ---
 
@@ -72,6 +71,7 @@ Testei e comparei três modelos principais:
 - **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
 - **Scikit-learn**
 - **XGBoost**
+
 
 
 
